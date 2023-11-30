@@ -1,0 +1,17 @@
+header+div{
+    background-color: darkred;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+
+li+p{
+    background-color: darkcyan;
+    color: brown;
+    font-size: larger;
+}
+
+main+li{
+    background-color: crimson;
+    color: wheat;
+}

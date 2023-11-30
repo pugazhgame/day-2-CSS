@@ -1,0 +1,15 @@
+header~div{
+    background-color: tomato;
+    color: blue;
+}
+
+main~li{
+    background-color: cyan;
+    color: darkgoldenrod;
+}
+
+p~li{
+    background-color: crimson;
+    color: darkblue;
+    font-size: larger;
+}

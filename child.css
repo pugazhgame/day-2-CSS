@@ -1,0 +1,12 @@
+ol>p{
+    color: violet;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+ul>li{
+    background-color: chartreuse;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

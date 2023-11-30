@@ -1,0 +1,9 @@
+h1{
+    background-color: chartreuse;
+    font-size:larger;
+}
+p{
+    font-size: small;
+    font-style: italic;
+    background-image: -moz-element();
+}
